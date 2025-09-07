@@ -11,6 +11,7 @@ csd__server-side-shadow.patch
 file-chooser__eject-button.patch
 file-chooser__file_units.patch
 file-chooser__places-sidebar.patch
+file-chooser__show-recent.patch
 file-chooser__typeahead.patch
 fixes__labels-wrapping.patch
 #fixes__too-large-menu-covers-bar.patch
