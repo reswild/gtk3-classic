@@ -91,7 +91,7 @@ source=(
 	settings.ini
 	"gtk-query-immodules-3.0.hook::https://gitlab.archlinux.org/archlinux/packaging/packages/gtk3/-/raw/$__arch_pkg_commit/gtk-query-immodules-3.0.hook"
 )
-sha256sums=('c115b411f5d1f227b4798609d73a552b4486a4389490b6947738af74e98012c9'
+sha256sums=('09a197b901f840c6114e4fb93b53ab1485a22c5e1015497a3b934ce87e75fbb7'
             '5723d1d2c0e69ce2e7f36973560a2297f6288e1fdfa4f6946104347080c7fc8c'
             '9785368d56b851e52de00eec852fc56f636dbc66d53c74d9b102e7c060f69533'
             '760bd3d65b3c5c0be19311d3b9d2be1f33c3bec198bc470de5afe23f5d488b8f'
@@ -105,6 +105,7 @@ sha256sums=('c115b411f5d1f227b4798609d73a552b4486a4389490b6947738af74e98012c9'
             'ffd9112691b890e263e3eafec71c9838e215c41e6dfd4750e1a498332afbf8f4'
             '11ef5e70b610e86ab0dcf97a06833977af15f2755c3623e01ac61d8d4a5cf88b'
             '6f5cfa1f3d0b1bd426e2be738b371f1910674dba8c67f4cb3de20bd55e15879e'
+            '42828983524dd8e63f322dedff91dddd61b8f927dd068a059a0cd4b9cfc8d467'
             'c6fd146e7ab332dd9a394b666b19e6ba7d6ac0932f33fb396f66630134257309'
             '7157b665e2ae724bb6abe8fc382d7178dc4d8d00f29bc63ed2942307ff41914b'
             '135defcbaa4832ae09c79d39231f327c1399159c1a7520c2ebfd2ca5d7fc9a7b'
